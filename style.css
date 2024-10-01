@@ -1,0 +1,21 @@
+body{
+color: red;
+ background: black;
+font-family:"Protest Guerrilla",sans-serif;
+font-size: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+}
+button{
+    color: purple;
+    background: red;
+    font-size: 25px;
+}
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
